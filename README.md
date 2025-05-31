@@ -22,5 +22,4 @@ This is a simple Node.js project demonstrating how to implement **Google OAuth 2
 - 🍃 **MongoDB & Mongoose** — NoSQL database and elegant MongoDB object modeling  
 - 🔑 **dotenv** — Loads environment variables from `.env` file for secure configuration  
 
-# googleauth
-this is my first project on googleauth
+
